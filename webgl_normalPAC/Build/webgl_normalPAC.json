@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "heart - frank starling",
+"dataUrl": "webgl_normalPAC.data.unityweb",
+"asmCodeUrl": "webgl_normalPAC.asm.code.unityweb",
+"asmMemoryUrl": "webgl_normalPAC.asm.memory.unityweb",
+"asmFrameworkUrl": "webgl_normalPAC.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
