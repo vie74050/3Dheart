@@ -2,12 +2,15 @@
 "companyName": "DefaultCompany",
 "productName": "Systemic Blood Flow",
 "dataUrl": "nsha_systemicFlow.data.unityweb",
+"wasmCodeUrl": "nsha_systemicFlow.wasm.code.unityweb",
+"wasmFrameworkUrl": "nsha_systemicFlow.wasm.framework.unityweb",
 "asmCodeUrl": "nsha_systemicFlow.asm.code.unityweb",
 "asmMemoryUrl": "nsha_systemicFlow.asm.memory.unityweb",
 "asmFrameworkUrl": "nsha_systemicFlow.asm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
 }
